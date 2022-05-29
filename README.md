@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ... Node js, Nest js , KEYCLOAK, kafka
+- 🌱 I’m currently learning ...    changess every week
+- 👯 I’m looking to collaborate on ...  open source projects
+- 💬 Ask me about ...  keycloak, nestjs, microservices
+- 📫 How to reach me: ... linkedin
+-
