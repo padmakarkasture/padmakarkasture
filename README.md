@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... Node js, Nest js , KEYCLOAK, kafka
-- 🌱 I’m currently learning ...    changess every week
+- 🔭 I’m currently working on ... Node js, Nest js ,React , KEYCLOAK  
 - 👯 I’m looking to collaborate on ...  open source projects
 - 💬 Ask me about ...  keycloak, nestjs, microservices
-- 📫 How to reach me: ... linkedin
--
+- 📫 How to reach me: ... linkedin https://www.linkedin.com/in/padmakar-kasture/
+
